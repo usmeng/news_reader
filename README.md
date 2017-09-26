@@ -19,8 +19,6 @@ The following **required** functionality is completed:
 * [ ] User can **scroll down to see more articles**. The maximum number of articles is limited by the API search.
 
 The following **optional** features are implemented:
-
-* [ ] Implements robust error handling, [check if internet is available](http://guides.codepath.com/android/Sending-and-Managing-Network-Requests#checking-for-network-connectivity), handle error cases, network failures
 * [ ] Used the **ActionBar SearchView** or custom layout as the query box instead of an EditText
 
 The following **bonus** features are implemented:
